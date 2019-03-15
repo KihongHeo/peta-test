@@ -1,2 +1,2 @@
 all:
-	gcc -o a.out test.c
+	$(CC) -o a.out test.c
